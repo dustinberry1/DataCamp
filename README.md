@@ -39,4 +39,4 @@ While this repository is mainly for personal and student use, feel free to submi
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach me via [GitHub issues](https://github.com/dustinberry1) or email.
+If you have any questions or need further assistance, you can reach me via [GitHub issues](https://github.com/dustinberry1).
